@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm Software engineer 💻
 
+<br/>
+
 ### I'm working at <a href="https://webtoonscorp.com/">NAVER WEBTOON</a>
 #### I used to work at <a href="https://samsung.com/sec/">Samsung Electronics</a>
 
