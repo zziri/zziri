@@ -2,7 +2,7 @@
 
 <br/>
 
-### I work at <a href="https://webtoonscorp.com/">NAVER WEBTOON</a>
+### I work for <a href="https://webtoonscorp.com/">NAVER WEBTOON</a>
 #### I used to work for <a href="https://samsung.com/sec/">Samsung Electronics</a>
 
 <br/>
